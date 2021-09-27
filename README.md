@@ -12,5 +12,7 @@ A bunch of experiments to learn TypeScript , Vue.js etc.
 
 
 
-Ashwin Dixit.
+# Author:
+
+Ashwin Dixit
 
