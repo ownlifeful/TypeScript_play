@@ -16,3 +16,6 @@ A bunch of experiments to learn TypeScript , Vue.js etc.
 
 Ashwin Dixit
 
+### LICENSE
+This repository is being released under the Creative Commons Attribution-ShareAlike license.
+
